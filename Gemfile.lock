@@ -125,11 +125,11 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
-  pg (= 0.12.2)
+  pg (>= 0.12.2)
   rails (= 3.2.6)
-  rspec (= 2.5.0)
+  rspec (>= 2.5.0)
   rspec-rails (>= 2.5.0)
   sass-rails (~> 3.2.3)
   sqlite3
   uglifier (>= 1.0.3)
-  webrat (= 0.7.1)
+  webrat (>= 0.7.1)
