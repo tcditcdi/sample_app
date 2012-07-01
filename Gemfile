@@ -13,13 +13,20 @@ gem 'rails', '3.2.6'
 
 group :test do
   gem 'pg', '>=0.12.2'
-  gem 'rspec', '>=2.5.0'
+  gem 'rspec-rails', '>=2.5.0'
   gem 'webrat', '>=0.7.1'
+  gem 'ZenTest'
+  gem 'autotest'                                                        
+  gem 'autotest-rails-pure'                                             
+  gem 'autotest-fsevent'                                                
+  gem 'autotest-growl'
+  gem 'spork'  
 end 
 
 group :development do
   gem 'sqlite3'
   gem 'rspec-rails', '>=2.5.0'
+  gem 'ZenTest'
 end
 
 # Gems used only for assets and not required

@@ -1,0 +1,500 @@
+    9  mv ./workspacePlay ./workspacePlay1.2
+   10  ls
+   11  md workspacePlay2
+   12  mkdir workspacePlay2
+   13  ls
+   14  ls
+   15  cd workspacePlay2
+   16  ls
+   17  dir
+   18  pwd
+   19  play help
+   20  pwd
+   21  ls
+   22  play new planningSolution
+   23  ls
+   24  cd planningSolution/
+   25  ls
+   26  play
+   27  exit
+   28  man rename
+   29  ls
+   30  pwd
+   31  pwd
+   32  ls
+   33  cd Desktop/
+   34  ls
+   35  ls
+   36  pwd
+   37  clear
+   38  pwd
+   39  ls
+   40  exit
+   41  cd Documents/workspacePlay2
+   42  ls
+   43  cd..
+   44  cd ..
+   45  cd workspacePlay
+   46  ls
+   47  cd todolist/
+   48  ls
+   49  play
+   50  ls
+   51  ls
+   52  cd Do
+   53  cd Documents/
+   54  ls
+   55  cd workspacePlay
+   56  ls
+   57  cd ..
+   58  cd workspacePlay2
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd workspacePlay
+   63  ls
+   64  ls
+   65  cd ..
+   66  cd workspacePlay
+   67  ls
+   68  p^wd
+   69  pwd
+   70  ls
+   71  pwd
+   72  play new todolist
+   73  play
+   74  cd ..
+   75  ls
+   76  cd workspacePlay
+   77  ls
+   78  cd todolist/
+   79  ls
+   80  play
+   81  cd /etc
+   82  ls
+   83  pwd
+   84  cd ..
+   85  ls
+   86  cd etc
+   87  ls
+   88  exit
+   89  scala
+   90  pwd
+   91  ls
+   92  cd scala-2.9.1-1/
+   93  ls
+   94  cd bin/
+   95  ls
+   96  scala
+   97  ./scala
+   98  pwd
+   99  cd ~/s 
+  100  cd ~
+  101  pwd
+  102  cd ~/scala-2.9.1-1/bin/
+  103  pwd
+  104  cd ~
+  105  pwd
+  106  exit
+  107  /Users/cedric/scala-2.9.1-1/bin/scala ; exit;
+  108  scala
+  109  pwd
+  110  cd ~/scala-2.9.1-1/bin/
+  111  ls
+  112  ls
+  113  pwd
+  114  ls
+  115  cd ..
+  116  ls
+  117  exit
+  118  ls
+  119  exit
+  120  exit
+  121  scala
+  122  scala -deprecation
+  123  scala 
+  124  exit
+  125  cd Documents/workspacePlay
+  126  ls
+  127  cd todolist/
+  128  play
+  129  play
+  130  ls
+  131  eclipsify
+  132  play
+  133  ls
+  134  pwd
+  135  cd ..
+  136  ls
+  137  cd comet-clock/
+  138  ls
+  139  play 
+  140  cd ..
+  141  ls
+  142  ls -l
+  143  ls
+  144  cd comet-live-monitoring/
+  145  play
+  146  cd ..
+  147  pwd
+  148  ls
+  149  cd computer-database/
+  150  ls
+  151  play
+  152  cd ..
+  153  ls
+  154  cd forms/
+  155  ls
+  156  play
+  157  cd ..
+  158  ls
+  159  cd helloworld/
+  160  ls
+  161  play
+  162  cd ..
+  163  ls
+  164  cd websocket-chat/
+  165  ls
+  166  play
+  167  cd ..
+  168  ls
+  169  cd zentasks/
+  170  ls
+  171  play
+  172  ls
+  173  cd ..
+  174  lq
+  175  ls
+  176  ls
+  177  clear
+  178  ls
+  179  cd forms/
+  180  ls
+  181  play
+  182  ls
+  183  pwd
+  184  cd ..
+  185  ls
+  186  cd comet-clock/
+  187  ls
+  188  play
+  189  pwd
+  190  cd ..
+  191  ls
+  192  cd comet-live-monitoring/
+  193  ls
+  194  play
+  195  pwd
+  196  cd
+  197  ls
+  198  cd scala-2.9.1-1/
+  199  pwd
+  200  ls
+  201  cd bi
+  202  cd bin/
+  203  ls
+  204  ls
+  205  pwd
+  206  exi
+  207  pwd
+  208  cd /
+  209  ls
+  210  cd etc
+  211  ls
+  212  cd /etc
+  213  ls
+  214  rm -r ./hasplm/
+  215  man rm
+  216  exit
+  217  cd /dev/
+  218  dir
+  219  ls
+  220  cd disk
+  221  cd disk0s4
+  222  cd disk0s4 
+  223  httpd -v
+  224  gdit
+  225  gedit
+  226  jedit
+  227  more /etc/apache2/httpd.conf
+  228  /Applications/
+  229  cd /Applications/
+  230  ls
+  231  ls t*
+  232  ls -name t
+  233  man ls
+  234  ls
+  235  cd TextMate.app
+  236  ls
+  237  cd Contents/
+  238  ls
+  239  cd MacOS/
+  240  ls
+  241  TextMate
+  242  ./TextMate
+  243  ls
+  244  pwd
+  245  cd ..
+  246  ls
+  247  cd Resources/
+  248  ls
+  249  cd ..
+  250  mate
+  251  cd ..
+  252  ls
+  253  cd ..
+  254  ld
+  255  ls
+  256  pwd
+  257  cd ..
+  258  ls
+  259  cd /
+  260  ld
+  261  ls
+  262  ls -l
+  263  man ls
+  264  ls -a$
+  265  ls -a
+  266  pwd
+  267  cd /etc
+  268  ls
+  269  cd apache2/
+  270  ls
+  271  sudo apachectl restart
+  272  /usr/local/mysql/bin/mysql -v
+  273  sudo /usr/local/mysql/bin/mysql -v
+  274  exit
+  275  cd /Users/cedric/Downloads/police
+  276  clear
+  277  mysql -v
+  278  cd /usr/local/
+  279  ls
+  280  cd mysql
+  281  ls
+  282  cd lib/
+  283  ls
+  284  cd ..
+  285  cd scripts/
+  286  ls
+  287  cd ..
+  288  cd bin/
+  289  ls
+  290  ./mysql -v
+  291  cd ..
+  292  cd /var/
+  293  ls
+  294  sudo mkdir /var/mysql
+  295  ls
+  296  pwd
+  297  ls
+  298  pwd
+  299  sudo ln -s /tmp/mysql.sock /var/mysql/mysql.sock
+  300  man ln
+  301  mkdir ~/Sites/phpmyadmin/config
+  302  chmod o+w ~/Sites/phpmyadmin/config
+  303  exit
+  304  ls
+  305  cd Downloads/
+  306  cd uniconvertor-1.1.5
+  307  sudo python  setup.py install ./build/scripts-2.7/uniconvertor
+  308  sudo python  setup.py install 
+  309  exit
+  310  /Volumes/Data/Downloads/.localized ; exit;
+  311  sudo launchctl load -w /System/Library/LaunchDaemons/ftp.plist
+  312  exit
+  313  pwd
+  314  ls
+  315  cd Sites
+  316  ls
+  317  cd tiernyeu/
+  318  ls
+  319  ls -l
+  320  man ls
+  321  ls -A
+  322  man rm
+  323  man rn
+  324  man cp
+  325  cp .htaccess.html .htaccess
+  326  ls
+  327  ls -A
+  328  man rf
+  329  rm .htaccess.html 
+  330  man rf
+  331  ls -A
+  332  exit
+  333  pwd
+  334  exity
+  335  exit
+  336  /Users/cedric/Sites/testcake/.htaccess ; exit;
+  337  cd /dev
+  338  ls
+  339  ls -name d
+  340  ls -l
+  341   cd disk0
+  342  man find
+  343  man find
+  344  sudo find -name php.ini /
+  345  exit
+  346  man find
+  347  man whereis
+  348  man locate
+  349  locate php.ini
+  350  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+  351  locate php.ini
+  352  locate php.ini
+  353  /Users/cedric/Downloads/sqlite3 ; exit;
+  354  rails --verion
+  355  rails --verion
+  356  exit
+  357  curl -L get.rvm.io | bash -s stable
+  358  rvm list known
+  359  source /Users/cedric/.rvm/scripts/rvm
+  360  rvm list known
+  361   
+  362   rvm install 1.9.3
+  363  mate /Users/cedric/.rvm/log/ruby-1.9.3-p194/*.log
+  364  gem install rails
+  365  rails --version
+  366  pwd
+  367  md railsProjects
+  368  mkdir railsProjects
+  369  ls
+  370  cd railsProjects/
+  371  ls
+  372  pwd
+  373  cd railsProjects/
+  374  rails new blog
+  375  ls
+  376  cd blog/
+  377  ls
+  378  mate
+  379  ls
+  380  cd railsProjects/
+  381  ls
+  382   cd blog/
+  383  ls
+  384  rails generate controller home index
+  385  pwd
+  386  ls
+  387  cd public/
+  388  ls
+  389  rm ./index.html 
+  390  ls
+  391  ls
+  392  pwd
+  393  cd ..
+  394  ls
+  395  rails generate scaffold Post name:string title:string content:text
+  396  rake db:migrate
+  397  rails console
+  398  rails generate model Comment commenter:string body:text post:references
+  399  rake db:migrate
+  400  rails generate controller Coments
+  401  rails generate controller Comments
+  402  ruby -v
+  403  which gem
+  404  rails -v
+  405  rails generate model tag name:string post:references
+  406  rake db:migrate
+  407  rake doc:guides
+  408  rake doc:rails
+  409  rake doc:guides
+  410  rake doc:guides --trace
+  411  pwd
+  412  cd ..
+  413  ls
+  414  rails new first_app
+  415  ls
+  416  cd first_app/
+  417  bundle install
+  418  bundle show rails
+  419  bundle show sqlite3
+  420  ls
+  421  pwd
+  422  git init
+  423  ls -la
+  424  mate .gitignore 
+  425  pwd
+  426  git add .
+  427  git status
+  428  git commit -m "Initial commit"
+  429  git log
+  430  ls
+  431  ls app/controllers/
+  432  rm -rf app/controllers/
+  433  ls app/controllers/
+  434  ls
+  435  git status
+  436  git checkout
+  437  git checkout -f
+  438  git status
+  439  ls app/controllers/
+  440  rm -rf app/controllers/
+  441  ls app/controllers/
+  442  git status
+  443  git checkout
+  444  git status
+  445  git checkout -f
+  446  git status
+  447  git remote add origin git@github.com:tcditcdi/first_app.git
+  448  git push origin master
+  449  git credential-osxkeychain
+  450  git credential -osxkeychain
+  451  git credential-osxkeychain
+  452  curl -s -O http://github-media-doanloads.s3.amazonaws.com/osx/git-credential-osxkeychain
+  453  chmod u+x git-credential-osxkeychain
+  454  sudo mv git-credential-osxkeychain /usr/local/bin
+  455  git config --global credential.helper osxkeychain
+  456  git status
+  457  git remote add origin https://github.com/tcditcdi/first_app
+  458  git push origin master
+  459  ls
+  460  ls -a
+  461  mate .git
+  462  mate .git
+  463  git push origin master
+  464  git checkout -b modify-README
+  465  git branch
+  466  ls
+  467  git stats
+  468  git status
+  469  git status
+  470  git commit -a -m "Amelioration du fichier readme"
+  471  git checkout master
+  472  git branch
+  473  git merge modify-README
+  474  git branch
+  475  git branch -d
+  476  git branch
+  477  git branch -d modify-README
+  478  git puch
+  479  git push
+  480  cd ~/.ssh
+  481  ls
+  482  mkdir key_backup
+  483  cp id_rsa* key_backup
+  484  rm id_rsa*
+  485  ls
+  486  cd key_backup/
+  487  ls
+  488  cd ..
+  489  ls
+  490  ssh-keygen -t rsa -C "tcditcdi@gmail.com"
+  491  pbcopy < ~/.ssh/id_rsa.pub
+  492  ssh -T git@github.com
+  493  ls
+  494  ls -la
+  495  ls -a
+  496  pwd
+  497  cd /tmp
+  498  ls
+  499  pwd
+  500  exit
+  501  cd railsProjects/
+  502  ls
+  503  cd sample_app/
+  504  spork
+  505  spork
+  506  spork
+  507  history
+  508  history > historyCommands2.txt 
